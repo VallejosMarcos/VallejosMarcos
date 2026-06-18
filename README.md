@@ -1,3 +1,7 @@
+<p align="center">
+  <img src="./assets/profile.jpg" width="180" style="border-radius:50%" alt="Marcos Vallejos" />
+</p>
+
 <h1 align="center">Marcos Vallejos</h1>
 
 <p align="center">
