@@ -1,13 +1,13 @@
 <h1 align="center">Marcos Vallejos</h1>
 
 <p align="center">
-  <b>Full-stack Developer</b> · Paraguay 🇵🇾<br>
+  <b>Full-stack Developer</b> · Paraguay<br>
   ERP · POS · Integraciones de delivery · Control de acceso biométrico
 </p>
 
 ---
 
-### 🧰 Stack
+### Stack
 
 **Lenguajes**
 ![Go](https://img.shields.io/badge/Go-00ADD8?style=flat&logo=go&logoColor=white)
@@ -34,7 +34,7 @@
 
 ---
 
-### 🚀 En qué trabajo
+### En qué trabajo
 
 - **ERP / POS** — sistemas de punto de venta, facturación electrónica y gestión.
 - **Integraciones de delivery** — conexión de plataformas externas con sistemas de venta.
@@ -43,7 +43,7 @@
 
 ---
 
-### 📊 GitHub
+### GitHub
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=VallejosMarcos&show_icons=true&hide_border=true&count_private=true" height="160" alt="stats" />
@@ -52,7 +52,6 @@
 
 ---
 
-### 📫 Contacto
+### Contacto
 
-📧 **tu-email@dominio.com**  <!-- reemplazá por tu email real -->
-
+**vallejosmarcos.py@gmail.com**
